@@ -1,0 +1,12 @@
+
+.logo{
+    position: relative;
+    margin-bottom: 1%;
+  }
+  .img {
+    width: 4%;
+    margin-top: 2%;
+    margin-left: 2%;
+    transition: transform 1.1s ease-in-out;
+    transition-delay: 0.4s;
+  }
